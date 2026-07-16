@@ -27,6 +27,15 @@ The goal of this project was to practice building a visually engaging landing pa
 
 ---
 
+## 🌐 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github)](https://armanforouharfard.github.io/Hitman-video-games-website/index.html)
+
+Explore the website here:
+**https://armanforouharfard.github.io/Hitman-video-games-website/index.html**
+
+---
+
 ## 🛠️ Built With
 
 - HTML5
