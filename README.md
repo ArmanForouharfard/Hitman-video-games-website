@@ -49,18 +49,6 @@ No installation or dependencies are required.
 
 ---
 
-## 📸 Preview
-
-> Add screenshots or a GIF here.
-
-Example:
-
-```
-images/preview.png
-```
-
----
-
 ## 🎯 Project Goals
 
 This project was built to:
@@ -74,7 +62,7 @@ This project was built to:
 
 ## 👨‍💻 Author
 
-**Arman Forouharfard**
+**Arman Forouharfard** and **Claude.ai**
 
 - 🌐 Portfolio: https://armanforouharfard.github.io
 - 💼 LinkedIn: https://linkedin.com/in/arman-forouharfard
