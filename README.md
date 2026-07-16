@@ -59,7 +59,7 @@ It focuses on responsive layouts, modern UI design, smooth scrolling interaction
 Clone the repository:
 
 ```bash
-git clone https://github.com/ArmanForouharfard/Hitman-One-Scroll-Website.git
+git clone https://github.com/ArmanForouharfard/Hitman-video-games-Website.git
 ```
 
 Open **index.html** in your browser.
