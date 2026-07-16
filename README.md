@@ -44,6 +44,16 @@ Explore the website here:
 
 ---
 
+## 💡 Why I Built This
+
+This project was created to strengthen my front-end development skills by designing a cinematic one-scroll experience inspired by the **Hitman** franchise.
+
+The website was developed in collaboration with **Claude AI**, which assisted with implementation, UI structure, and front-end development. Throughout the project, I focused on understanding the architecture, reviewing the generated code, refining the implementation, and learning modern web development practices.
+
+It focuses on responsive layouts, modern UI design, smooth scrolling interactions, and creating an engaging user experience using HTML, CSS, and JavaScript.
+
+---
+
 ## 🚀 Getting Started
 
 Clone the repository:
