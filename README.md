@@ -1,4 +1,4 @@
-# 🎯 Hitman Video Games Website
+<img width="1915" height="924" alt="image" src="https://github.com/user-attachments/assets/217e3bca-011d-4077-9edc-b7f850ec0562" /># 🎯 Hitman Video Games Website
 A modern one-scroll web experience dedicated to **Agent 47**, featuring his history, background, and legacy from the **Hitman** game series. Built using HTML, CSS, and JavaScript.
 
 ---
@@ -51,6 +51,15 @@ git clone https://github.com/ArmanForouharfard/Hitman-One-Scroll-Website.git
 Open **index.html** in your browser.
 
 No installation or dependencies are required.
+
+---
+
+## 📸 Preview
+
+> <img width="1915" height="924" alt="image" src="https://github.com/user-attachments/assets/465e3484-516a-472d-9d7c-6da8d62d9607" />
+> <img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/053e6d8a-e8f0-4d89-bbc8-a56153d47a37" />
+
+Example:
 
 ---
 
