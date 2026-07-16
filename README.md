@@ -9,7 +9,7 @@ A modern one-scroll web experience dedicated to **Agent 47**, featuring his hist
 
 ## 📖 About
 
-This project is a **single-page responsive website** created as a tribute to **Agent 47**, exploring the history and legacy of one of gaming's most iconic assassins.
+This project is a **single-page responsive fan website** created as a tribute to **Agent 47**, exploring the history and legacy of one of gaming's most iconic assassins.
 
 The goal of this project was to practice building a visually engaging landing page while combining storytelling, modern UI design, smooth navigation, and responsive layouts using pure front-end technologies.
 
