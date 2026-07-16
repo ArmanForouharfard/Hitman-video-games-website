@@ -88,13 +88,6 @@ This project was built to:
 
 ---
 
-## 📄 License
-
-This project is intended for educational and portfolio purposes.
-Hitman and Agent 47 are trademarks and intellectual property of IO Interactive.
-
----
-
 ## ⭐ Support
 
 If you enjoyed this project, consider giving it a ⭐ on GitHub.
